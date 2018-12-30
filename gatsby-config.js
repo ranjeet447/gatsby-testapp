@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `RedCarpetUp`,
     description: `map with boundries of vollages of Rajasthan`,
-    siteUrl:'https://serene-thicket-20855.herokuapp.com/'
+    siteUrl:'https://serene-thicket-20855.herokuapp.com/',
+    author:"@"
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
