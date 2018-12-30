@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Rajasthan`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `RedCarpetUp`,
+    description: `map with boundries of vollages of Rajasthan`,
+    siteUrl:'https://serene-thicket-20855.herokuapp.com/'
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

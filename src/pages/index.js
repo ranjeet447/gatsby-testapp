@@ -11,7 +11,7 @@ export default ({data}) => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Rajasthan</title>
-        <link rel="canonical" href="http://mysite.com/example" />
+        <link rel="canonical" href="https://serene-thicket-20855.herokuapp.com/" />
       </Helmet>
       <Layout>
       <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
